@@ -15,3 +15,5 @@ The CyberBlog project aimed at creating and hosting a personal website operated 
 - Azure Web Services
   - Load Balancer
   - WAF
+
+Project Paperwork Link: https://docs.google.com/document/d/108NQOfbu3ivIDW2v34Ab2CJWjYNocscHn-hulhPepM8/edit?usp=sharing
