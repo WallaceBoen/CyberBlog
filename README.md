@@ -11,8 +11,7 @@ The CyberBlog project aimed at creating and hosting a personal website operated 
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Azure Web Services
+  - Load Balancer
+  - WAF
